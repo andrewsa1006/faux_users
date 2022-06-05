@@ -44,4 +44,13 @@ generateFullAddressOneLine\
 generateFullUser\
 generateFullUserArray
 
+#### The following resources were used:
+https://www.name-generator.org.uk/?i=259iy4yg\
+
+https://www.al.com/news/2019/10/50-most-common-last-names-in-america.html\
+
+https://www.verywellfamily.com/top-1000-baby-girl-names-2757832\
+
+https://www.verywellfamily.com/top-1000-baby-boy-names-2757618
+
 Check out the [github here](https://github.com/andrewsa1006/faux_users). Let me know if you have any questions.
