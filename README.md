@@ -22,7 +22,7 @@
       state: 'Texas',\
       zip: '04499'\
     }\
-  }\
+  }
 
 #### Full List of possible methods to build your own users:
 getRandomFirstName\
@@ -42,6 +42,6 @@ generateRandomZip\
 generateFullAddress\
 generateFullAddressOneLine\
 generateFullUser\
-generateFullUserArray\
+generateFullUserArray
 
 Check out the [github here](https://github.com/andrewsa1006/faux_users). Let me know if you have any questions.
