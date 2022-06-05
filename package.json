@@ -1,7 +1,7 @@
 {
-  "name": "fake_json_generator",
-  "version": "1.0.0",
-  "description": "A package to generator all sorts of fake JSON information at the end user's discretion.",
+  "name": "faux-users-us",
+  "version": "1.0.1",
+  "description": "A package for generating fake U.S. user information for testing and prototyping.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
